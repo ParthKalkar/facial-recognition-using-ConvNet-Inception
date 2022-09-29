@@ -24,6 +24,9 @@ FaceNet learns a neural network that encodes a face image into a vector of 512 n
 ## Triplet Loss 
 ![image](https://user-images.githubusercontent.com/50231750/193011358-207c6a83-5d9b-4081-8521-4799c9b67404.png)
 
+## Output
+![image](https://user-images.githubusercontent.com/50231750/193011513-1b020225-efa4-48c8-8625-5986750b3d9d.png)
+
 
 
 
