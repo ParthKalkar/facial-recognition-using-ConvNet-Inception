@@ -19,7 +19,8 @@ FaceNet learns a neural network that encodes a face image into a vector of 512 n
 - Use these encodings to perform face verification and face recognition
 
 
-![image](https://user-images.githubusercontent.com/50231750/193010778-bce807e1-5d5a-4fae-b3ab-1759b73ac0ad.png)
+![image](https://user-images.githubusercontent.com/50231750/193011010-95a2f21d-60ad-42c2-b50f-026eb5b49292.png)
+
 
 
 
